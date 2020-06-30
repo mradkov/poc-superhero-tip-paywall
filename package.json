@@ -1,0 +1,11 @@
+{
+  "name": "poc-superhero-tip-paywall",
+  "version": "1.0.0",
+  "description": "PoC Superhero tip paywall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milen Radkov <milenradkov@me.com>",
+  "license": "ISC"
+}
